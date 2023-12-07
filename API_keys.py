@@ -1,0 +1,1 @@
+CUR_KEY = 'fca_live_ILOya4jdS0YzwvACs7Lp6FLYZQb6b8dZfyIo9LeA'
